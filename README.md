@@ -5,6 +5,4 @@ Description : A deep convolutional neural net (CNN) for playing the well-known a
 
 PacMan.ipynb : The python code in form of a Jupyter Notebook.
 
-PacMan.html : HTML version of the Jupyter Notebook for easily viewing the code.
-
 Demo Video : A few demos of the trained bot are available at .
